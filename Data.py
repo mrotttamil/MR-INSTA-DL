@@ -13,7 +13,7 @@ You can also authorize me to download private posts.
 
 Use below buttons to learn more.
 
-By @StarkBots
+By @RafiqCreationz
     """
 
     # Home Button
@@ -23,7 +23,7 @@ By @StarkBots
 
     # Rest Buttons
     buttons = [
-        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/MR/OTT/Tamil1")],
+        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/MR_OTT_Tamil1")],
         [
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
             InlineKeyboardButton("🎪 About 🎪", callback_data="about")
@@ -52,7 +52,7 @@ Use /auth to authorize and /unauth to unauthorize.
     ABOUT = """
 **About This Bot** 
 
-A telegram bot to download instagram content by @StarkBots
+A telegram bot to download instagram content by @RafiqCreationz
 
 Source Code : [Click Here](https://t.me/RafiqCreationz)
 
