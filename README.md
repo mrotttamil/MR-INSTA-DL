@@ -23,7 +23,7 @@ Telegram bot to download instagram content.
 
 1. Clone the repo
    ```markdown
-   git clone https://github.com/StarkBotsIndustries/InstagramBot
+   git clone https://github.com/mrotttamil/MR-INSTA-DL
    ```
 2. Get a DATABASE_URL. If you don't know how, deploy using Heroku Button only or delete database things as it's not a compulsion.
    
