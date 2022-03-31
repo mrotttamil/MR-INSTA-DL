@@ -1,4 +1,4 @@
-# Instagram Downloader Bot [@InstaloaderStarkBot](https://t.me/RafiqCreationz)
+# Mr Insta DL [@RafiqCReationz](https://t.me/RafiqCreationz)
 
 > A star ⭐ from you means a lot to us!
 
@@ -74,9 +74,9 @@ Stories and Profiles
 
 ## Support
 
-Channel :- [@StarkBots](https://t.me/StarkBots)
+Channel :- [@MR_OTT_Tamil](https://t.me/MR_OTT_Tamil1)
 
-Group Chat :- [@StarkBotsChat](https://t.me/StarkBotsChat)
+Group Chat :- [@MR_OTT_Tamil](https://t.me/MR_OTT_Tamil1)
 
 ## :)
 
